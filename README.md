@@ -90,9 +90,9 @@ extension=php_pdo_sqlsrv.dll
 - Admin: http://localhost/News-Website/public/admin/dashboard.php
 
 ## 🔑 Tài khoản mẫu
-Admin
-Username: admin
-Password: 123456
+Admin<br>
+Username: admin<br>
+Password: 123456<br>
 
 ## 📊 Giao diện Dashboard
 
