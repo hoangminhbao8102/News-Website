@@ -1,0 +1,34 @@
+# ===== Config nhạy cảm =====
+config/db.php          # File cấu hình database
+
+# ===== Composer vendor (nếu dùng Composer) =====
+vendor/
+composer.lock
+
+# ===== IDE / Editor files =====
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ===== Logs & Cache =====
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# ===== OS Generated Files =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== Env file =====
+.env
+
+# ===== Uploads & Images (chỉ ignore nếu không muốn commit ảnh user upload) =====
+# assets/img/uploads/
+
+# ===== XAMPP Specific (nếu copy toàn bộ htdocs) =====
+xampp-control.ini
